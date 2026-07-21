@@ -1,3 +1,4 @@
 User-agent: *
-Disallow: 
-Sitemap: https://enock.com.br/sitemap.xml
+Allow: /
+
+Sitemap: https://enock.com.br/sitemap-index.xml

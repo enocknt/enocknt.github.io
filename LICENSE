@@ -1,0 +1,19 @@
+Copyright (c) 2026 Enock Gomes Neto
+
+This repository contains the automatically generated build output of the
+website published at https://enock.com.br. It is not maintained by hand; its
+contents are replaced on every deploy.
+
+SOURCE CODE
+-----------
+The source code that generates this site is maintained at
+https://github.com/enocknt/portfolio and is licensed under the MIT License.
+That code may be reused under the terms stated there.
+
+SITE CONTENT
+------------
+All personal content presented on this site — including but not limited to the
+author's name, biography, résumé and career data, photographs, and written
+text — is Copyright (c) Enock Gomes Neto. All rights reserved. This content may
+not be copied, redistributed, or used to represent or impersonate the author,
+in whole or in part, without prior written permission.

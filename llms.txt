@@ -1,0 +1,24 @@
+# Enock Gomes Neto
+
+> Software Engineer with over 10 years of experience building robust solutions in embedded systems, Android, web applications and artificial intelligence. Currently working on TV 3.0 in Brazil, contributing to the next generation of interactivity and digital broadcasting.
+
+This site is a bilingual (Portuguese default, English at `/en/`) personal portfolio: background, skills, work experience, education, open source and professional projects, and a blog mirrored from dev.to.
+
+## Pages
+
+- [Home (PT)](https://enock.com.br/): summary, skills, experience, education, projects, blog, contact
+- [Home (EN)](https://enock.com.br/en/): English version of the above
+- [Projects (PT)](https://enock.com.br/projetos/)
+- [Projects (EN)](https://enock.com.br/en/projects/)
+- [Courses (PT)](https://enock.com.br/cursos/)
+- [Courses (EN)](https://enock.com.br/en/courses/)
+- [Blog (PT)](https://enock.com.br/blog/): mirrors posts from dev.to/enocknt
+- [Blog (EN)](https://enock.com.br/en/blog/)
+- [Résumé (PT, PDF)](https://enock.com.br/resume-pt.pdf)
+- [Résumé (EN, PDF)](https://enock.com.br/resume-en.pdf)
+
+## Links
+
+- GitHub: https://github.com/enocknt
+- LinkedIn: https://www.linkedin.com/in/enocknt/
+- dev.to: https://dev.to/enocknt
